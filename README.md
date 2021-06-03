@@ -7,10 +7,13 @@ Our project will solve the way “How the application could shorten the bureaucr
 Project Flow:
 
 We use transfer learning from Xception and freeze some layer, then we use dropout to prevent from overfitting, 
-The result from model is binary classification, poor(1), and rich (1). For Poverty_ML model, We use Deep Neural Network to provide recommendation for social aid verificator. 
+The result from model is binary classification, poor and rich. For Poverty_ML model, We use Deep Neural Network to provide recommendation for social aid verificator. 
 
 # Clone Repo
 
 ```
 ! git clone https://github.com/abyanrifqy/ProjectSingkat.git
 ```
+# Further Development
+
+This project still needs many improvement besides its technical or . Please do pull request if necesarry. 
