@@ -29,4 +29,4 @@ Living Room: [here](https://drive.google.com/drive/folders/1wJrbcaMIkvjmPQuoHiV7
 
 # Further Development
 
-This project still needs many improvement. Please do pull request if necessary. **All of our team members are working on this project**. 
+This project still needs many improvement, start from dark theme UI compatibility, function response time, and clean code implementation. Please do pull request if necessary. **All of our team members are working on this project**. 
