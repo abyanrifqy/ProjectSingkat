@@ -1,0 +1,140 @@
+<resources>
+    <string name="app_name">Singkat</string>
+    <string name="title_beranda">Beranda</string>
+    <string name="title_ajukan">Ajukan</string>
+    <string name="title_profil">Profil</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title">Judul</string>
+    <string name="description">Deskripsi</string>
+    <string name="pendaftaran">Pendaftaran</string>
+    <string name="status">Status</string>
+    <string name="hubungi">Hubungi</string>
+    <string name="logo_singkat">Logo Singkat</string>
+    <string name="welcome">Selamat Datang!</string>
+    <string name="cari">Cari</string>
+    <string name="phone_auth_title">Masukan Nomor Telepon</string>
+    <string name="phone_auth_desc">Kami akan mengirimkan kode OTP ke nomor telepon anda.</string>
+    <string name="kirim_otp">KIRIM OTP</string>
+    <string name="konfirmasi">Konfirmasi</string>
+    <string name="verify_otp">Masukan Kode OTP</string>
+    <string name="failed_otp">Kode Invalid</string>
+    <string name="kirim_pengajuan">Kirim Pengajuan</string>
+    <string name="icon_beranda">Icon Beranda</string>
+    <string name="title_daftar">Pendaftaran PPKS</string>
+    <string name="desc_daftar">Formulir Pendaftaran</string>
+    <string name="title_faq">FAQ</string>
+    <string name="desc_faq">Kumpulan Pertanyaan</string>
+    <string name="title_hubungi">Hubungi Kami</string>
+    <string name="desc_hubungi">Layanan Interaktif</string>
+    <string name="nomor_ktp">Nomor KTP</string>
+    <string name="pemohon_title">Pemohon:</string>
+    <string name="pemohon_name">Nama Pemohon</string>
+    <string name="pendaftaran_ppks">Pendaftaran PPKS</string>
+    <string name="konfirmasi_terkirim">Data Berhasil Terkirim</string>
+    <string name="jenis_ppks">Jenis PPKS</string>
+    <string name="required">*Wajib Diisi</string>
+    <string name="jenis_ppks_dropwdown">Jenis PPKS</string>
+    <string name="nama_lengkap">Nama Lengkap</string>
+    <string name="nik">Nomor Induk Kependudukan</string>
+    <string name="kartu_keluarga">No. Kartu Keluarga</string>
+    <string name="ktp">NIK KTP</string>
+    <string name="tempat_lahir">Tempat Lahir</string>
+    <string name="tanggal_lahir">Tanggal Lahir</string>
+    <string name="laki_laki">Laki - Laki</string>
+    <string name="perempuan">Perempuan</string>
+    <string name="jenis_kelamin">Jenis Kelamin</string>
+    <string name="alamat_sesuai_ktp">Alamat Sesuai KTP</string>
+    <string name="alamat_saat_ini">Alamat Saat Ini</string>
+    <string name="nomor_telepon">Nomor Telepon</string>
+
+    <string-array name="jenis_ppks">
+        <item>Anak yang Berhadapan dengan Hukum</item>
+        <item>Anak Jalanan</item>
+        <item>Anak Korban Tindak Kekerasan</item>
+        <item>Anak yang memerlukan perlindungan</item>
+        <item>Lanjut Usia Telantar</item>
+        <item>Penyandang disabilitas</item>
+        <item>Kelompok Minoritas</item>
+        <item>Bekas Warga Binaan Lembaga Pemasyarakatan</item>
+        <item>Orang dengan HIV/AIDS</item>
+        <item>Korban Penyalahgunaan NAPZA</item>
+        <item>Korban Trafficking</item>
+        <item>Korban Tindak Kekerasan</item>
+        <item>Pekerja Migran Bermasalah Sosial</item>
+        <item>Korban Bencana Sosial</item>
+        <item>Perempuan Rawan Sosial Ekonomi</item>
+        <item>Fakir Miskin</item>
+        <item>Keluarga Bermasalah Sosial Psikologis</item>
+        <item>Komunitas Adat Terpencil</item>
+    </string-array>
+    <string name="ya">Ya</string>
+    <string name="tidak">Tidak</string>
+    <string name="toilet">Apakah anda memiliki toilet?</string>
+    <string name="kulkas">Apakah anda memiliki kulkas?</string>
+    <string name="televisi">Apakah anda memiliki televisi?</string>
+    <string name="komputer">Apakah anda memiliki komputer atau laptop?</string>
+    <string name="disabilitas">Apakah ada anggota keluarga yang menyandang disabilitas?</string>
+    <string name="jumlah_lansia">Jumlah lansia diatas umur 65 tahun</string>
+    <string name="lama_sekolah">Lama Sekolah (Tahun)</string>
+    <string name="jumlah_anak_19">Jumlah anak berusia dibawah 19 tahun</string>
+    <string name="jumlah_anak_12">Jumlah anak berusia dibawah 12 tahun</string>
+    <string name="jumlah_anggota">Jumlah anggota keluarga di tempat</string>
+    <string name="tanggal_permohonan">Tanggal Permohonan</string>
+    <string name="pertanyaan_faq">PERTANYAAN</string>
+    <string name="jawaban_faq">JAWABAN</string>
+    <string name="hubungi_title">Senin - Jumat, 07.30 - 16.00</string>
+    <string name="atau">ATAU</string>
+    <string name="call">021-3290785</string>
+    <string name="email_singkat">singkat@jelas.go.id</string>
+    <string name="dokumentasi">Dokumentasi</string>
+    <string name="dapur">Ruang Dapur</string>
+    <string name="kamar_tidur">Kamar Tidur</string>
+    <string name="ruang_tamu">Ruang Tamu</string>
+    <string name="jumlah_tanggungan_keluarga">Jumlah tanggungan keluarga</string>
+    <string name="menikah">Apakah anda sudah menikah?</string>
+    <string name="sudah">Sudah</string>
+    <string name="belum">Belum</string>
+    <string name="bercerai">Apakah anda sudah bercerai?</string>
+    <string name="rumah_sewa">Apakah anda tinggal di rumah sewa?</string>
+    <string name="tiga">3.</string>
+    <string name="empat">4.</string>
+    <string name="peringatan_empat">Dokumentasi hanya diterima apabila sudah terlihat jelas.</string>
+    <string name="peringatan_tiga">Dilarang untuk melakukan pemalsuan data verifikasi dan validasi sebagaimana diatur dalam UU No.13 Pasal 11 ayat (3).</string>
+    <string name="satu">1.</string>
+    <string name="peringatan_satu">Pemohon wajib mengisi semua data yang dibutuhkan.</string>
+    <string name="dua">2.</string>
+    <string name="peringatan_dua">Dinas Sosial berhak melalukan verifikasi dan validasi data secara langsung sesuai Permensos 28 tahun 2017.</string>
+    <string name="setuju_ketentuan">SAYA TELAH MEMBACA DAN MENYETUJUI</string>
+    <string name="peringatan">Peringatan</string>
+    <string name="deskripsi_pendaftaran">Tuliskan informasi Pemerlu Pelayanan Kesejahteraan\nSosial dengan sesuai dan jelas agar memudahkan\nproses verifikasi pendaftaran</string>
+    <string name="deskripsi_tempat_tinggal">Tempat yang saat ini sedang didiami oleh\nPemerlu Pelayanan Kesejahteraan Sosial</string>
+    <string name="deskripsi_data_pelengkap">Lengkapi data di bawah ini untuk sesuai dengan kondisi\nPemerlu Pelayanan Kesejahteraan Sosial</string>
+    <string name="keterangan">Dinyatakan sebagai Penerima Bantuan Sosial. Anda akan menerima bantuan sejumlah :</string>
+    <string name="prosedur">Anda bisa melakukan Penarikan Bantuan di Pos/ Kantor Pos terdekat dengan membawa Fotocopy KTP dan Fotocopy KK .</string>
+    <string name="laporan">Jika terdapat Perbedaan Jumlah Nominal Bantuan dari Aplikasi dengan uang yang Anda Terima, harap laporkan ke singkat@jelas.go.id</string>
+    <string name="selanjutnya">Selanjutnya</string>
+    <string-array name="data_pertanyaan">
+        <item>Mengapa saya tidak mendapat Kode OTP?</item>
+        <item>Mengapa dokumentasi saya ditolak?</item>
+        <item>Lama waktu yang dibutuhkan untuk pemeriksaan?</item>
+        <item>Pendaftaran lebih dari satu kali?</item>
+        <item>Siapa yang akan memvalidasi data terdaftar?</item>
+        <item>Bagaimana cara untuk mengecek status pendaftaran?</item>
+        <item>Apakah profesi seperti PNS, kepolisian/kemiliteran dapat melakukan pendaftaran Bantuan Sosial?</item>
+        <item>Apakah saya harus meng-update data nantinya?</item>
+        <item>Bagaimana cara penarikan pencarian dana?</item>
+    </string-array>
+
+    <string-array name="data_jawaban">
+        <item>Mohon cek kembali nomor telepon yang anda masukan dan gunakan nomor telepon yang belum pernah terdaftar</item>
+        <item>Hasil dokumentasi harus dapat dilihat dengan jelas dan pandangan yang luas</item>
+        <item>Pemeriksaan membutuhkan jangka waktu 3 hari kerja</item>
+        <item>Tidak bisa, pendaftaran hanya dapat dilakukan satu kali per orang.</item>
+        <item>Dinas Sosial berhak memvalidasi data terdaftar.</item>
+        <item>Masuk dalam halaman status pendaftar, informasi akan tertera sesuai data pendaftar.</item>
+        <item>Tidak. Bantuan hanya diperuntukkan untuk warga dengan kondisi kurang mampu ( Gaji di bawah UMR )</item>
+        <item>Ya. Pendaftar diharuskan meng-update data dalam jangka 3 bulan apabila ada perubahan dalam data kependudukan dari sebelumnya.  (Seperti alamat, status pekerjaan, dan lain – lain.)</item>
+        <item>pendaftar yang berkasnya sudah disetujui akan menerima rincian pencairan dana dan dapat diproses di titik-titik pos pembagian bantuan social yang disediakan pemerintah</item>
+    </string-array>
+</resources>
