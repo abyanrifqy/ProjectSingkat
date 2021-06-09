@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "382498054547",
+    "project_id": "singkatapp-e8602",
+    "storage_bucket": "singkatapp-e8602.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:382498054547:android:8598f1846adc3dfab4c866",
+        "android_client_info": {
+          "package_name": "com.capstone.peradaban.singkat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "382498054547-h0acidmctk9c0qo4pugbb6tg1tvjcc17.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdqSMqwYiYJFGnLKKuKL_CRDlTS8Q2j14"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "382498054547-h0acidmctk9c0qo4pugbb6tg1tvjcc17.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
