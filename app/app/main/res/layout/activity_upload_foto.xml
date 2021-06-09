@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    tools:context=".ajukan.UploadFotoActivity"
+    android:gravity="center"
+    android:orientation="vertical">
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/imgPath"
+        android:hint="Upload Foto Ruang Tamu"/>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Select Image"
+        android:onClick="selectImage"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:layout_marginTop="15dp"
+        android:orientation="horizontal">
+
+        <ImageButton
+            android:id="@+id/btn_kamar_tidur"
+            android:layout_width="90dp"
+            android:layout_height="wrap_content"
+            android:padding="30dp"
+            android:layout_margin="15dp"
+            android:backgroundTint="@color/blue"
+            android:src="@drawable/ic_baseline_photo_camera_24"
+            android:onClick="launchGallery"
+            android:contentDescription="@string/kamar_tidur" />
+
+        <ImageButton
+            android:id="@+id/btn_dapur"
+            android:layout_width="90dp"
+            android:layout_height="wrap_content"
+            android:padding="30dp"
+            android:layout_margin="15dp"
+            android:backgroundTint="@color/blue"
+            android:src="@drawable/ic_baseline_photo_camera_24"
+            android:onClick="launchGallery"
+            android:contentDescription="@string/dapur" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:layout_marginTop="5dp"
+        android:orientation="horizontal">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="12sp"
+            android:layout_marginRight="5dp"
+            android:text="Upload Foto Kamar Tidur"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="12sp"
+            android:layout_marginLeft="5dp"
+            android:text="Upload Foto Dapur"/>
+
+    </LinearLayout>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="100dp"
+        android:text="@string/kirim_pengajuan"
+        android:onClick="connectServer"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Message from the Server ..."
+        android:visibility="invisible"
+        android:id="@+id/responseText" />
+</LinearLayout>
