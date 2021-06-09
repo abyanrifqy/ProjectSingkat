@@ -1,7 +1,0 @@
-<resources>
-    <string name="app_name">admin_singkat</string>
-    <string name="pemohon_title">Pemohon:</string>
-    <string name="pemohon_name">Nama Pemohon</string>
-    <string name="nomor_ktp">Nomor KTP</string>
-    <string name="icon_beranda">Icon Beranda</string>
-</resources>
