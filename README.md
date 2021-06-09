@@ -1,6 +1,6 @@
 # Project Singkat
 
-Therefore, “SINGKAT” application project created to shorten the bureaucratic flow and facilitate faster data verification in the registration of DTKS (Social Welfare Integrated Data). 
+“SINGKAT” application project created to shorten the bureaucratic flow and facilitate faster data verification in the registration of DTKS (Social Welfare Integrated Data). 
 
 Our project will solve the way “How the application could shorten the bureaucratic flow and speed up the data verification process?” and “What are the parameters to validating if the recipient of social aid is eligible”.
 
@@ -14,6 +14,8 @@ The result from model is binary classification, poor and rich. For Poverty_ML mo
 ```
 ! git clone https://github.com/abyanrifqy/ProjectSingkat.git
 ```
+
+Run colab file to obtain model. 
 # Further Development
 
-This project still needs many improvement besides its technical or . Please do pull request if necesarry. 
+This project still needs many improvement. Please do pull request if necessary. 
