@@ -16,6 +16,17 @@ The result from model is binary classification, poor and rich. For Poverty_ML mo
 ```
 
 Run colab file to obtain model. 
+
+# Filtered Dataset Source
+
+ML poverty : [here](https://drive.google.com/drive/folders/1cnh6CiKFHCzTTdG5QEl-N42aAWNgM9U4?usp=sharing)
+
+Bedroom : [here](https://drive.google.com/drive/folders/1hywXPVFkM5wzSJoA5SwRSBwg5cHYCzlS?usp=sharing) 
+
+Kitchen:  [here](https://drive.google.com/drive/folders/1SdqkrVnpYKEGgYP1azOmHXe24Inx-k3-?usp=sharing) 
+
+Living Room: [here](https://drive.google.com/drive/folders/1wJrbcaMIkvjmPQuoHiV7Wv6ycpUSJHA9?usp=sharing) 
+
 # Further Development
 
 This project still needs many improvement. Please do pull request if necessary. 
