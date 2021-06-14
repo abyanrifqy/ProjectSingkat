@@ -49,7 +49,7 @@ class UploadFotoActivity : AppCompatActivity() {
     }
 
     fun connectServer(v: View?) {
-        val postUrl = "http://34.69.117.97:5000/"
+        val postUrl = "http://35.224.144.132:5000/"
         val stream = ByteArrayOutputStream()
         val options = BitmapFactory.Options()
         options.inPreferredConfig = Bitmap.Config.RGB_565
